@@ -21,7 +21,8 @@ Welcome to my collection of Power BI projects where data meets design and storyt
 
 ### 🚴‍♂️ Bike Sales Dashboard
 **Objective:** Create a dynamic dashboard for bike sales, customer segmentation, and performance insights.
-![Bike Sales Dashboard Preview](./bike-sales-dashboard/bike-sales-dashboard-screenshot.png)
+
+![Bike Sales Dashboard Preview](./bike-sales-dashboard-screenshot.png)
 
 **Highlights:**
 - Customer demographics & purchase behavior
