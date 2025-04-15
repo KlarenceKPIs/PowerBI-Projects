@@ -14,7 +14,7 @@ Welcome to my collection of Power BI projects where data meets design and storyt
 - Top-performing product lines
 - Time-series trends and seasonal patterns
 
-📂 [adidas-sales-analysis](./adidas-sales-analysis)
+📂 [adidas-sales-analysis](https://github.com/KlarenceKPIs/adidas-sales-analysis)
 📄 Includes: `.xlsx` dataset file
 
 ---
