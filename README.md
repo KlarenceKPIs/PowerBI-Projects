@@ -14,7 +14,7 @@ Welcome to my collection of Power BI projects where data meets design and storyt
 - Top-performing product lines
 - Time-series trends and seasonal patterns
 
-📂 `/adidas-sales-analysis/`  
+📂 [adidas-sales-analysis](./adidas-sales-analysis)
 📄 Includes: `.xlsx` dataset file
 
 ---
@@ -27,7 +27,7 @@ Welcome to my collection of Power BI projects where data meets design and storyt
 - Sales trends by region and product type
 - Clean UI for executive-level reporting
 
-📂 `/bike-sales-dashboard/`  
+📂 [bike-sales-dashboard](./bike-sales-dashboard)
 📄 Includes: `.pbix` file + preview image
 
 ---
